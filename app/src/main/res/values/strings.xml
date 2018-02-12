@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Unknown</string>
+    <string name="blogas_username">Prisijungimo vardas netinkamas</string>
+    <string name="blogas_password">Slaptažodis netinkamas</string>
+</resources>
